@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CodePathAND101Project5</string>
+    <string name="refresh_button_text">Refresh</string>
+    <string name="pokemon_height_placeholder">Height</string>
+    <string name="pokemon_weight_placeholder">Weight</string>
+    <string name="pokemon_image_description">Pokemon image</string>
+    <string name="pokemon_name_placeholder">Pokemon name</string>
+    <string name="refresh_button_label">Refresh Pokemon</string>
+    <string name="name_label">Name: %s</string>
+    <string name="weight_label">Weight: %.1f kg</string>
+    <string name="height_label">Height: %.1f m</string>
+</resources>
